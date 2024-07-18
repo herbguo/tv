@@ -4,7 +4,7 @@
         {
             "name": "tvlive",
             "type": 0,
-            "url": "./tvlive.txt",
+            "url": "./tv/tvlive.txt",
             "playerType": 2
         },
         {
