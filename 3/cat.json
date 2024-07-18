@@ -2,14 +2,13 @@
   "spider": "./lib/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-    //    {
-    //      "name": "TXT",
-    //      "type": 0,
-    //      "url": "./live.txt",
-    //      "epg": "",
-    //      "logo": ""
-    //    }
-    //  ,
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "./live.txt",
+      "epg": "",
+      "logo": ""
+    },
     {
       "group": "redirect",
       "channels": [
@@ -51,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "量子资源",
@@ -108,26 +107,16 @@
       "filterable": 1,
       "ext": "./ext/haitu.json"
     },
-    //    {
-    //      "key": "Xinsj",
-    //      "name": "新视觉",
-    //      "type": 3,
-    //      "api": "csp_Xinsj",
-    //      "searchable": 0,
-    //      "quickSearch": 0,
-    //      "changeable": 1,
-    //      "ext": "https://www.hdmyy.com/"
-    //    },
-    //    {
-    //      "key": "csp_xpath_tvqing",
-    //      "name": "青苹果",
-    //      "type": 3,
-    //      "api": "csp_XPathFilter",
-    //      "searchable": 1,
-    //      "quickSearch": 1,
-    //      "filterable": 1,
-    //      "ext": "./ext/qpingguo.json"
-    //    },
+    {
+      "key": "Xinsj",
+      "name": "新视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
     {
       "key": "csp_Nbys",
       "name": "泥视频(墙外)",
