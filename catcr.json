@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/fm.jar",
+  "spider": "./jar/fm.jar",
   "lives": [
     {
       "name": "TXT",
@@ -148,26 +148,6 @@
         "经典片"
       ]
     },
-    //    {
-    //      "key": "csp_xpath_tvqing",
-    //      "name": "青苹果",
-    //      "type": 3,
-    //      "api": "csp_XPathFilter",
-    //      "searchable": 1,
-    //      "quickSearch": 1,
-    //      "filterable": 1,
-    //      "ext": "./ext/qpingguo.json"
-    //    },
-    //    {
-    //      "key": "Xinsj",
-    //      "name": "新视觉",
-    //      "type": 3,
-    //      "api": "csp_Xinsj",
-    //      "searchable": 0,
-    //      "quickSearch": 0,
-    //      "changeable": 1,
-    //      "ext": "https://www.hdmyy.com/"
-    //    },
     {
       "key": "本地",
       "name": "本地存储",

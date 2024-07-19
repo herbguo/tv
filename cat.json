@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/fm.jar",
+  "spider": "./jar/fm.jar",
   "lives": [
     {
       "name": "TXT",
