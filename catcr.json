@@ -2,13 +2,6 @@
   "spider": "./jar/fm.jar",
   "lives": [
     {
-      "name": "TXT",
-      "type": 0,
-      "url": "./live18.txt",
-      "epg": "",
-      "logo": ""
-    },
-    {
       "group": "redirect",
       "channels": [
         {
