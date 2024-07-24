@@ -1,5 +1,5 @@
 {
-    "spider": "./lib/fm.jar",
+    "spider": "https://raw.liucn.cc/box/fty.jar;md5;6adeb73add2066fe62257d2337084da2",
     "sites": [
         {
             "key": "直播转点播",
